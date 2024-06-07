@@ -20,7 +20,7 @@
 
 - 👨‍💻 Projects that i have done are available on **[My Portfolio](https://razaquegoraya.com)**
 
-- 📫 How to reach me **razaqueg007@gmail.com**
+- 📫 How to reach me **arazaque.goraya@gmail.com**
 
 - ⚡ Fun fact **Music Lover**
 
