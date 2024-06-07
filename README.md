@@ -54,7 +54,7 @@
 <a href = "https://www.linkedin.com/in/amjad-ali-2073031ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/abdulrazzaque.goraya/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/abdul_razaque_goraya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://razaquegoraya.com/"><img src="https://img.icons8.com/?size=100&id=87836&format=png"/></a>
+<a href = "https://razaquegoraya.com/"><img src="https://img.icons8.com/?size=46&id=87836&format=png"/></a>
 
 
 </p>
